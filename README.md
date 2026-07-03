@@ -226,6 +226,65 @@ database.py
 * **README.md** → Project documentation.
 
 ---
+## 🚀 Upcoming Features (Roadmap)
+
+The project is continuously evolving, with several advanced AI-powered features planned for future releases.
+
+### 🤖 Smart AI Analysis
+
+* GPT/Gemini-powered audience analysis
+* AI-generated executive summaries
+* Intelligent audience insights
+* Automatic creator recommendations
+* Video improvement suggestions
+* Audience satisfaction evaluation
+
+### 💬 AI Comment Assistant
+
+An interactive AI chatbot that allows users to ask natural language questions about analyzed YouTube comments.
+
+Example questions:
+
+* What is the biggest complaint?
+* What do viewers like the most?
+* What are the most requested features?
+* Summarize audience opinions.
+* Which topics generated the most discussion?
+* What should the creator improve in the next video?
+
+### 📈 Advanced Audience Intelligence
+
+* Audience satisfaction score
+* Community health analysis
+* Viewer behavior insights
+* AI-powered performance evaluation
+* Trend detection
+* Actionable recommendations for content creators
+
+### ⚡ Hybrid Analysis Modes
+
+* **Fast Mode** using Transformer models (MARBERT / RoBERTa)
+* **Smart AI Mode** using GPT/Gemini
+* Optimized processing for large-scale datasets
+* Intelligent batch processing pipeline
+
+### 🔍 Advanced Topic Understanding
+
+* Automatic complaint extraction
+* Suggestion mining
+* Frequently asked questions (FAQ) generation
+* Feature request detection
+* Semantic topic clustering
+* AI-powered discussion analysis
+
+### 🌍 Enhanced Multilingual Support
+
+* Improved multilingual understanding
+* Better mixed-language analysis
+* Cross-language audience insights
+
+More powerful AI capabilities and analytics features will be introduced in future updates as the platform continues to evolve.
+---
 
 ##  License
 
