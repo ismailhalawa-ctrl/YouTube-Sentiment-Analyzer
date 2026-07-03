@@ -295,9 +295,9 @@ MIT License
 
 ##  Author
 
-**Ismaeel Halawa**
+**Ismail Halawa**
 
-GitHub: https://github.com/ismaeelhalawa-ctrl
+GitHub: https://github.com/ismailhalawa-ctrl
 
 ---
 
